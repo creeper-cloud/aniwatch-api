@@ -37,22 +37,22 @@
     "author": "https://github.com/ghoshRitesh12",
     "license": "MIT",
     "dependencies": {
-        "@hono/node-server": "^1.14.2",
-        "aniwatch": "^2.24.3",
-        "dotenv": "^16.5.0",
-        "envalid": "^8.0.0",
-        "hono": "^4.7.10",
-        "hono-rate-limiter": "^0.4.2",
-        "ioredis": "^5.6.1",
-        "pino": "^9.7.0",
-        "pino-pretty": "^13.0.0"
+    "@hono/node-server": "^1.11.1",
+    "aniwatch": "^2.24.3",
+    "dotenv": "^16.4.5",
+    "envalid": "^8.0.0",
+    "hono": "^4.3.2",
+    "hono-rate-limiter": "^0.2.1",
+    "ioredis": "^5.4.1",
+    "pino": "8.19.0",
+    "pino-pretty": "11.0.0"
     },
     "devDependencies": {
-        "@types/node": "^22.15.21",
-        "husky": "^9.1.7",
-        "prettier": "^3.5.3",
-        "tsx": "^4.19.4",
-        "typescript": "^5.8.3",
-        "vitest": "^3.1.4"
+    "@types/node": "^20.12.7",
+    "husky": "^9.0.11",
+    "prettier": "^3.2.5",
+    "tsx": "^4.7.2",
+    "typescript": "^5.4.5",
+    "vitest": "^1.5.0"
     }
 }
